@@ -21,5 +21,5 @@ O painel ajuda líderes logísticos a identificar falhas operacionais e otimizar
 
 ---
 
-🔗 **Conecte comigo no LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/seuusuario)
+🔗 **Conecte comigo no LinkedIn:** https://www.linkedin.com/in/wendell-avelar-correia
 
